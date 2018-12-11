@@ -1,0 +1,265 @@
+2018-12-11 09:17:15,344 - Start server.
+2018-12-11 09:17:15,344 - Open the config file.
+2018-12-11 09:18:39,050 - Start server.
+2018-12-11 09:18:39,050 - Open the config file.
+2018-12-11 09:18:41,348 - New command </connect> from client 127.0.0.1
+2018-12-11 09:18:41,349 - User "Alex" successfully authorized.
+2018-12-11 09:18:41,356 - New command </list> from client 127.0.0.1
+2018-12-11 09:18:41,356 - User "Alex": command </list> done successfully.
+2018-12-11 09:18:41,363 - New command </vault_space> from client 127.0.0.1
+2018-12-11 09:18:41,363 - User "Alex": command </vault_space> done successfully.
+2018-12-11 09:18:41,369 - New command </size> from client 127.0.0.1
+2018-12-11 09:18:41,369 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:18:41,375 - New command </size> from client 127.0.0.1
+2018-12-11 09:18:41,375 - Error: the file "office.py" does not exist. 
+2018-12-11 09:18:41,381 - New command </delete> from client 127.0.0.1
+2018-12-11 09:18:41,382 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:18:41,389 - New command </delete> from client 127.0.0.1
+2018-12-11 09:18:41,389 - Error: the file "office.py" does not exist. 
+2018-12-11 09:18:45,296 - New command </upload> from client 127.0.0.1
+2018-12-11 09:18:47,808 - Error: file is not uploaded. Wrong checksum.
+2018-12-11 09:19:07,748 - Start server.
+2018-12-11 09:19:07,748 - Open the config file.
+2018-12-11 09:19:10,058 - New command </connect> from client 127.0.0.1
+2018-12-11 09:19:10,065 - User "Alex" successfully authorized.
+2018-12-11 09:19:10,073 - New command </list> from client 127.0.0.1
+2018-12-11 09:19:10,074 - User "Alex": command </list> done successfully.
+2018-12-11 09:19:10,078 - New command </vault_space> from client 127.0.0.1
+2018-12-11 09:19:10,083 - User "Alex": command </vault_space> done successfully.
+2018-12-11 09:19:10,089 - New command </size> from client 127.0.0.1
+2018-12-11 09:19:10,089 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:19:10,095 - New command </size> from client 127.0.0.1
+2018-12-11 09:19:10,095 - Error: the file "office.py" does not exist. 
+2018-12-11 09:19:10,101 - New command </delete> from client 127.0.0.1
+2018-12-11 09:19:10,101 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:19:10,109 - New command </delete> from client 127.0.0.1
+2018-12-11 09:19:10,109 - Error: the file "office.py" does not exist. 
+2018-12-11 09:19:11,516 - New command </upload> from client 127.0.0.1
+2018-12-11 09:19:13,201 - Error: file is not uploaded. Wrong checksum.
+2018-12-11 09:19:14,499 - New command </connect> from client 127.0.0.1
+2018-12-11 09:19:14,500 - User "Alex" successfully authorized.
+2018-12-11 09:19:14,506 - New command </list> from client 127.0.0.1
+2018-12-11 09:19:14,507 - User "Alex": command </list> done successfully.
+2018-12-11 09:19:14,512 - New command </vault_space> from client 127.0.0.1
+2018-12-11 09:19:14,513 - User "Alex": command </vault_space> done successfully.
+2018-12-11 09:19:14,519 - New command </size> from client 127.0.0.1
+2018-12-11 09:19:14,519 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:19:14,525 - New command </size> from client 127.0.0.1
+2018-12-11 09:19:14,525 - Error: the file "office.py" does not exist. 
+2018-12-11 09:19:14,530 - New command </delete> from client 127.0.0.1
+2018-12-11 09:19:14,530 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:19:14,536 - New command </delete> from client 127.0.0.1
+2018-12-11 09:19:14,537 - Error: the file "office.py" does not exist. 
+2018-12-11 09:19:15,391 - New command </upload> from client 127.0.0.1
+2018-12-11 09:19:19,964 - Error: file is not uploaded. Wrong checksum.
+2018-12-11 09:19:21,994 - New command </connect> from client 127.0.0.1
+2018-12-11 09:19:21,995 - User "Alex" successfully authorized.
+2018-12-11 09:19:22,000 - New command </list> from client 127.0.0.1
+2018-12-11 09:19:22,001 - User "Alex": command </list> done successfully.
+2018-12-11 09:19:22,007 - New command </vault_space> from client 127.0.0.1
+2018-12-11 09:19:22,007 - User "Alex": command </vault_space> done successfully.
+2018-12-11 09:19:22,013 - New command </size> from client 127.0.0.1
+2018-12-11 09:19:22,013 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:19:22,019 - New command </size> from client 127.0.0.1
+2018-12-11 09:19:22,019 - Error: the file "office.py" does not exist. 
+2018-12-11 09:19:22,025 - New command </delete> from client 127.0.0.1
+2018-12-11 09:19:22,025 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:19:22,030 - New command </delete> from client 127.0.0.1
+2018-12-11 09:19:22,030 - Error: the file "office.py" does not exist. 
+2018-12-11 09:19:22,862 - New command </upload> from client 127.0.0.1
+2018-12-11 09:19:26,620 - Error: file is not uploaded. Wrong checksum.
+2018-12-11 09:56:26,424 - Start server.
+2018-12-11 09:56:26,424 - Open the config file.
+2018-12-11 09:56:28,701 - New command </connect> from client 127.0.0.1
+2018-12-11 09:56:28,702 - User "Alex" successfully authorized.
+2018-12-11 09:56:28,708 - New command </list> from client 127.0.0.1
+2018-12-11 09:56:28,709 - User "Alex": command </list> done successfully.
+2018-12-11 09:56:28,714 - New command </vault_space> from client 127.0.0.1
+2018-12-11 09:56:28,714 - User "Alex": command </vault_space> done successfully.
+2018-12-11 09:56:28,721 - New command </size> from client 127.0.0.1
+2018-12-11 09:56:28,722 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:56:28,728 - New command </size> from client 127.0.0.1
+2018-12-11 09:56:28,729 - Error: the file "office.py" does not exist. 
+2018-12-11 09:56:28,736 - New command </delete> from client 127.0.0.1
+2018-12-11 09:56:28,736 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:56:28,742 - New command </delete> from client 127.0.0.1
+2018-12-11 09:56:28,742 - Error: the file "office.py" does not exist. 
+2018-12-11 09:56:29,654 - New command </upload> from client 127.0.0.1
+2018-12-11 09:58:09,411 - Start server.
+2018-12-11 09:58:09,411 - Open the config file.
+2018-12-11 09:58:10,954 - New command </connect> from client 127.0.0.1
+2018-12-11 09:58:10,955 - User "Alex" successfully authorized.
+2018-12-11 09:58:10,962 - New command </list> from client 127.0.0.1
+2018-12-11 09:58:10,963 - User "Alex": command </list> done successfully.
+2018-12-11 09:58:10,970 - New command </vault_space> from client 127.0.0.1
+2018-12-11 09:58:10,971 - User "Alex": command </vault_space> done successfully.
+2018-12-11 09:58:10,976 - New command </size> from client 127.0.0.1
+2018-12-11 09:58:10,976 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:58:10,983 - New command </size> from client 127.0.0.1
+2018-12-11 09:58:10,983 - Error: the file "office.py" does not exist. 
+2018-12-11 09:58:10,989 - New command </delete> from client 127.0.0.1
+2018-12-11 09:58:10,990 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:58:10,997 - New command </delete> from client 127.0.0.1
+2018-12-11 09:58:10,997 - Error: the file "office.py" does not exist. 
+2018-12-11 09:58:12,301 - New command </upload> from client 127.0.0.1
+2018-12-11 09:58:18,641 - File "CS50.mp4" is successfully uploaded.
+2018-12-11 09:58:24,303 - New command </connect> from client 127.0.0.1
+2018-12-11 09:58:24,304 - User "Alex" successfully authorized.
+2018-12-11 09:58:24,311 - New command </list> from client 127.0.0.1
+2018-12-11 09:58:24,311 - User "Alex": command </list> done successfully.
+2018-12-11 09:58:24,318 - New command </vault_space> from client 127.0.0.1
+2018-12-11 09:58:24,319 - User "Alex": command </vault_space> done successfully.
+2018-12-11 09:58:24,324 - New command </size> from client 127.0.0.1
+2018-12-11 09:58:24,325 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:58:24,332 - New command </size> from client 127.0.0.1
+2018-12-11 09:58:24,332 - Error: the file "office.py" does not exist. 
+2018-12-11 09:58:24,339 - New command </delete> from client 127.0.0.1
+2018-12-11 09:58:24,339 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:58:24,346 - New command </delete> from client 127.0.0.1
+2018-12-11 09:58:24,346 - Error: the file "office.py" does not exist. 
+2018-12-11 09:58:25,236 - New command </upload> from client 127.0.0.1
+2018-12-11 09:58:32,054 - File "CS50.mp4" is successfully uploaded.
+2018-12-11 09:59:49,640 - New command </connect> from client 127.0.0.1
+2018-12-11 09:59:49,641 - User "Alex" successfully authorized.
+2018-12-11 09:59:49,649 - New command </list> from client 127.0.0.1
+2018-12-11 09:59:49,649 - User "Alex": command </list> done successfully.
+2018-12-11 09:59:49,655 - New command </vault_space> from client 127.0.0.1
+2018-12-11 09:59:49,655 - User "Alex": command </vault_space> done successfully.
+2018-12-11 09:59:49,661 - New command </size> from client 127.0.0.1
+2018-12-11 09:59:49,661 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:59:49,666 - New command </size> from client 127.0.0.1
+2018-12-11 09:59:49,666 - Error: the file "office.py" does not exist. 
+2018-12-11 09:59:49,673 - New command </delete> from client 127.0.0.1
+2018-12-11 09:59:49,673 - Error: the file "jks.op" does not exist. 
+2018-12-11 09:59:49,679 - New command </delete> from client 127.0.0.1
+2018-12-11 09:59:49,679 - Error: the file "office.py" does not exist. 
+2018-12-11 09:59:50,542 - New command </upload> from client 127.0.0.1
+2018-12-11 09:59:56,471 - File "CS50.mp4" is successfully uploaded.
+2018-12-11 10:00:06,168 - New command </connect> from client 127.0.0.1
+2018-12-11 10:00:06,168 - User "Alex" successfully authorized.
+2018-12-11 10:00:06,175 - New command </list> from client 127.0.0.1
+2018-12-11 10:00:06,175 - User "Alex": command </list> done successfully.
+2018-12-11 10:00:06,181 - New command </vault_space> from client 127.0.0.1
+2018-12-11 10:00:06,182 - User "Alex": command </vault_space> done successfully.
+2018-12-11 10:00:06,188 - New command </size> from client 127.0.0.1
+2018-12-11 10:00:06,188 - Error: the file "jks.op" does not exist. 
+2018-12-11 10:00:06,195 - New command </size> from client 127.0.0.1
+2018-12-11 10:00:06,195 - Error: the file "office.py" does not exist. 
+2018-12-11 10:00:06,202 - New command </delete> from client 127.0.0.1
+2018-12-11 10:00:06,202 - Error: the file "jks.op" does not exist. 
+2018-12-11 10:00:06,208 - New command </delete> from client 127.0.0.1
+2018-12-11 10:00:06,208 - Error: the file "office.py" does not exist. 
+2018-12-11 10:00:07,076 - New command </upload> from client 127.0.0.1
+2018-12-11 10:00:12,763 - File "CS50.mp4" is successfully uploaded.
+2018-12-11 10:00:35,410 - New command </connect> from client 127.0.0.1
+2018-12-11 10:00:35,411 - User "Alex" successfully authorized.
+2018-12-11 10:00:35,417 - New command </list> from client 127.0.0.1
+2018-12-11 10:00:35,417 - User "Alex": command </list> done successfully.
+2018-12-11 10:00:35,423 - New command </vault_space> from client 127.0.0.1
+2018-12-11 10:00:35,423 - User "Alex": command </vault_space> done successfully.
+2018-12-11 10:00:35,429 - New command </size> from client 127.0.0.1
+2018-12-11 10:00:35,429 - Error: the file "jks.op" does not exist. 
+2018-12-11 10:00:35,435 - New command </size> from client 127.0.0.1
+2018-12-11 10:00:35,435 - Error: the file "office.py" does not exist. 
+2018-12-11 10:00:35,441 - New command </delete> from client 127.0.0.1
+2018-12-11 10:00:35,442 - Error: the file "jks.op" does not exist. 
+2018-12-11 10:00:35,447 - New command </delete> from client 127.0.0.1
+2018-12-11 10:00:35,448 - Error: the file "office.py" does not exist. 
+2018-12-11 10:00:36,313 - New command </upload> from client 127.0.0.1
+2018-12-11 10:00:42,124 - File "CS50.mp4" is successfully uploaded.
+2018-12-11 10:04:18,184 - Start server.
+2018-12-11 10:04:18,184 - Open the config file.
+2018-12-11 10:04:19,748 - New command </connect> from client 127.0.0.1
+2018-12-11 10:04:19,750 - User "Alex" successfully authorized.
+2018-12-11 10:04:19,756 - New command </list> from client 127.0.0.1
+2018-12-11 10:04:19,756 - User "Alex": command </list> done successfully.
+2018-12-11 10:04:19,761 - New command </vault_space> from client 127.0.0.1
+2018-12-11 10:04:19,761 - User "Alex": command </vault_space> done successfully.
+2018-12-11 10:04:19,767 - New command </size> from client 127.0.0.1
+2018-12-11 10:04:19,768 - Error: the file "jks.op" does not exist. 
+2018-12-11 10:04:19,774 - New command </size> from client 127.0.0.1
+2018-12-11 10:04:19,774 - Error: the file "office.py" does not exist. 
+2018-12-11 10:04:19,780 - New command </delete> from client 127.0.0.1
+2018-12-11 10:04:19,780 - Error: the file "jks.op" does not exist. 
+2018-12-11 10:04:19,786 - New command </delete> from client 127.0.0.1
+2018-12-11 10:04:19,787 - Error: the file "office.py" does not exist. 
+2018-12-11 10:04:21,151 - New command </upload> from client 127.0.0.1
+2018-12-11 10:04:21,152 - Error: size of file is larger than allowed.
+2018-12-11 10:04:47,673 - Start server.
+2018-12-11 10:04:47,673 - Open the config file.
+2018-12-11 10:04:49,136 - New command </connect> from client 127.0.0.1
+2018-12-11 10:04:49,137 - User "Alex" successfully authorized.
+2018-12-11 10:04:49,145 - New command </list> from client 127.0.0.1
+2018-12-11 10:04:49,145 - User "Alex": command </list> done successfully.
+2018-12-11 10:04:49,152 - New command </vault_space> from client 127.0.0.1
+2018-12-11 10:04:49,152 - User "Alex": command </vault_space> done successfully.
+2018-12-11 10:04:49,158 - New command </size> from client 127.0.0.1
+2018-12-11 10:04:49,159 - Error: the file "jks.op" does not exist. 
+2018-12-11 10:04:49,165 - New command </size> from client 127.0.0.1
+2018-12-11 10:04:49,165 - Error: the file "office.py" does not exist. 
+2018-12-11 10:04:49,171 - New command </delete> from client 127.0.0.1
+2018-12-11 10:04:49,172 - Error: the file "jks.op" does not exist. 
+2018-12-11 10:04:49,178 - New command </delete> from client 127.0.0.1
+2018-12-11 10:04:49,179 - Error: the file "office.py" does not exist. 
+2018-12-11 10:04:50,046 - New command </upload> from client 127.0.0.1
+2018-12-11 10:04:50,047 - Error: File deleted. Not enough free disk space.
+2018-12-11 10:05:21,282 - Start server.
+2018-12-11 10:05:21,283 - Open the config file.
+2018-12-11 10:05:21,283 - New command <user-add>.
+2018-12-11 10:05:21,292 - OK. New user successfully created.
+2018-12-11 10:05:21,292 - Close the program.
+2018-12-11 10:07:27,862 - Start server.
+2018-12-11 10:07:27,862 - Open the config file.
+2018-12-11 10:07:27,862 - New command <user-add>.
+2018-12-11 10:07:27,862 - Error: user with same name already exists.
+2018-12-11 10:07:27,862 - Close the program.
+2018-12-11 10:08:45,567 - Start server.
+2018-12-11 10:08:45,567 - Open the config file.
+2018-12-11 10:08:45,567 - New command <user-add>.
+2018-12-11 10:08:45,568 - Error: user with same name already exists.
+2018-12-11 10:08:45,568 - Close the program.
+2018-12-11 10:11:54,026 - Start server.
+2018-12-11 10:11:54,026 - Open the config file.
+2018-12-11 10:11:54,027 - New command <user-add>.
+2018-12-11 10:11:54,027 - Error: user with same name already exists.
+2018-12-11 10:11:54,027 - Close the program.
+2018-12-11 10:13:36,715 - Start server.
+2018-12-11 10:13:36,716 - Open the config file.
+2018-12-11 10:21:58,093 - New command </connect> from client 127.0.0.1
+2018-12-11 10:21:58,095 - User "Cyryl" successfully authorized.
+2018-12-11 10:23:05,927 - New command </connect> from client 127.0.0.1
+2018-12-11 10:23:05,927 - User "Alex" successfully authorized.
+2018-12-11 10:23:05,933 - New command </list> from client 127.0.0.1
+2018-12-11 10:23:05,934 - User "Alex": command </list> done successfully.
+2018-12-11 10:23:05,939 - New command </vault_space> from client 127.0.0.1
+2018-12-11 10:23:05,939 - User "Alex": command </vault_space> done successfully.
+2018-12-11 10:23:05,946 - New command </size> from client 127.0.0.1
+2018-12-11 10:23:05,947 - Error: the file "jks.op" does not exist. 
+2018-12-11 10:23:05,953 - New command </size> from client 127.0.0.1
+2018-12-11 10:23:05,953 - Error: the file "office.py" does not exist. 
+2018-12-11 10:23:05,960 - New command </delete> from client 127.0.0.1
+2018-12-11 10:23:05,960 - Error: the file "jks.op" does not exist. 
+2018-12-11 10:23:05,966 - New command </delete> from client 127.0.0.1
+2018-12-11 10:23:05,966 - Error: the file "office.py" does not exist. 
+2018-12-11 10:23:06,897 - New command </upload> from client 127.0.0.1
+2018-12-11 10:23:09,943 - New command </upload> from client 127.0.0.1
+2018-12-11 10:23:14,290 - File "CS50.mp4" is successfully uploaded.
+2018-12-11 10:23:18,021 - File "CS50.mp4" is successfully uploaded.
+2018-12-11 10:24:40,155 - New command </connect> from client 127.0.0.1
+2018-12-11 10:24:40,165 - User "Alex" successfully authorized.
+2018-12-11 10:24:53,863 - New command </list> from client 127.0.0.1
+2018-12-11 10:24:53,863 - User "Alex": command </list> done successfully.
+2018-12-11 10:25:02,059 - New command </list> from client 127.0.0.1
+2018-12-11 10:25:02,059 - User "Cyryl": command </list> done successfully.
+2018-12-11 10:26:07,110 - New command </vault_space> from client 127.0.0.1
+2018-12-11 10:26:07,111 - User "Alex": command </vault_space> done successfully.
+2018-12-11 10:26:18,822 - New command </vault_space> from client 127.0.0.1
+2018-12-11 10:26:18,823 - User "Cyryl": command </vault_space> done successfully.
+2018-12-11 10:27:15,545 - New command </delete> from client 127.0.0.1
+2018-12-11 10:27:15,595 - User "Cyryl": command </delete> done successfully.
+2018-12-11 10:27:20,345 - New command </list> from client 127.0.0.1
+2018-12-11 10:27:20,345 - User "Cyryl": command </list> done successfully.
+2018-12-11 10:27:47,347 - New command </size> from client 127.0.0.1
+2018-12-11 10:27:47,347 - User "Alex": command </size> done successfully.
+2018-12-11 10:28:09,595 - New command </size> from client 127.0.0.1
+2018-12-11 10:28:09,595 - Error: the file "CS50.mp4" does not exist. 
