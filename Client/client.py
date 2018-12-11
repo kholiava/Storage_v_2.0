@@ -13,14 +13,8 @@ def hash_password(password):
 
 
 class Client:
-    def __init__(self, server='localhost', port=8888):
+    def __init__(self):
         self.session_key = ''
-        self.server = server
-        try:
-            self.port = int(port)
-        except ValueError:
-            print('Error: incorrect port.')
-            exit(0)
 
     def connect(self, server, port, username, password):
         self.server = server
